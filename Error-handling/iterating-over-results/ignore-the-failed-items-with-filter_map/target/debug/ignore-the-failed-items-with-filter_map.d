@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Error-handling/iterating-over-results/ignore-the-failed-items-with-filter_map/target/debug/ignore-the-failed-items-with-filter_map: /home/user/projects/rust/rust-by-example/Error-handling/iterating-over-results/ignore-the-failed-items-with-filter_map/src/main.rs

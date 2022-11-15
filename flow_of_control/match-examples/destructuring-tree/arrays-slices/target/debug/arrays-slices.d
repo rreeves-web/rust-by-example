@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/flow_of_control/match-examples/destructuring-tree/arrays-slices/target/debug/arrays-slices: /home/user/projects/rust/rust-by-example/flow_of_control/match-examples/destructuring-tree/arrays-slices/src/main.rs

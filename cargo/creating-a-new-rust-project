@@ -1,0 +1,47 @@
+Dependencies
+
+Most programs have dependencies on some libraries. If you have ever managed
+dependencies by hand, you know how much of a pain this can be. Luckily, the
+Rust ecosystem comes standard with cargo! cargo can manage dependencies for a
+project.
+
+To create a new Rust project,
+BEGIN CODEBLOCK
+# A binary
+cargo new foo
+
+# OR A library
+cargo new --lib foo
+END CODEBLOCK
+
+After the above commands, a file hierarchy as follows appears:
+BEGIN CODEBLOCK
+foo
+- Cargo.toml
+- src
+    - main.rs
+END CODEBLOCK
+
+The `main.rs` is the root source file for your new project -- nothing new there.
+The `Cargo.toml` is the config file for `cargo` for this project (foo). If you look
+inside it, you should see something like this:
+BEGIN CODEBLOCK
+[package]
+name = "foo"
+version = "0.1.0"
+authors = ["mark"]
+
+[dependencies]
+END CODEBLOCK
+
+The version field is a crate version number using Semantic Versioning
+[url]https://semver.org/[/url].
+
+The `[dependencies]` section lets you add dependencies for your project
+
+For example, suppose that we want our program to have a great CLI. You can find
+lots of great packages on crates.io (the official Rust package registry). One
+popular choice is clap. As of this writing, the most recent published version
+of clap is 2.27.1. To add a dependency to our program, we can simply add the
+following to our Cargo.toml under [dependencies]: clap = "2.27.1". And that's
+it! You can start using clap in your program.

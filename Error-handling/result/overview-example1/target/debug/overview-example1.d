@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Error-handling/result/overview-example1/target/debug/overview-example1: /home/user/projects/rust/rust-by-example/Error-handling/result/overview-example1/src/main.rs

@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/flow_of_control/loops/returning-from-loops/target/debug/returning-from-loops: /home/user/projects/rust/rust-by-example/flow_of_control/loops/returning-from-loops/src/main.rs

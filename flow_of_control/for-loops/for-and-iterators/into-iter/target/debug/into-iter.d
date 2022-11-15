@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/flow_of_control/for-loops/for-and-iterators/into-iter/target/debug/into-iter: /home/user/projects/rust/rust-by-example/flow_of_control/for-loops/for-and-iterators/into-iter/src/main.rs

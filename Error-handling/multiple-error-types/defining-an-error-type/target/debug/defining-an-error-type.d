@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Error-handling/multiple-error-types/defining-an-error-type/target/debug/defining-an-error-type: /home/user/projects/rust/rust-by-example/Error-handling/multiple-error-types/defining-an-error-type/src/main.rs

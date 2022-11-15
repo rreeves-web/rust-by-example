@@ -1,0 +1,3 @@
+This example chapter has many entries of different code which are all short
+They will all be included in individual cargo entries as regular, but
+this readme exists to show that they are all tiny

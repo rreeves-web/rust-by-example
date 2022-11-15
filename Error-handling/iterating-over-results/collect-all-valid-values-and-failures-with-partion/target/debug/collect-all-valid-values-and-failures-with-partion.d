@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Error-handling/iterating-over-results/collect-all-valid-values-and-failures-with-partion/target/debug/collect-all-valid-values-and-failures-with-partion: /home/user/projects/rust/rust-by-example/Error-handling/iterating-over-results/collect-all-valid-values-and-failures-with-partion/src/main.rs

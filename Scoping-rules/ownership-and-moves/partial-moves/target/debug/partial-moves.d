@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Scoping-rules/ownership-and-moves/partial-moves/target/debug/partial-moves: /home/user/projects/rust/rust-by-example/Scoping-rules/ownership-and-moves/partial-moves/src/main.rs

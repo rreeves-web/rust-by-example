@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Error-handling/multiple-error-types/pulling-results-out-of-options/target/debug/pulling-results-out-of-options: /home/user/projects/rust/rust-by-example/Error-handling/multiple-error-types/pulling-results-out-of-options/src/main.rs

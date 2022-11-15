@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/functions/closures/examples_in_std/iterator/target/debug/iterator: /home/user/projects/rust/rust-by-example/functions/closures/examples_in_std/iterator/src/main.rs

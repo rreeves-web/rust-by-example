@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Scoping-rules/ownership-and-moves/borrowing/target/debug/borrowing: /home/user/projects/rust/rust-by-example/Scoping-rules/ownership-and-moves/borrowing/src/main.rs

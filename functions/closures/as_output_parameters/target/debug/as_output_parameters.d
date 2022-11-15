@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/functions/closures/as_output_parameters/target/debug/as_output_parameters: /home/user/projects/rust/rust-by-example/functions/closures/as_output_parameters/src/main.rs

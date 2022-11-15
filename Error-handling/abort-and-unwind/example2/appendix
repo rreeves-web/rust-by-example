@@ -1,0 +1,2 @@
+The panic strategy can be set from the command line using `abort` or `unwind`
+$ rustc lemonade.rs -C panic=abort

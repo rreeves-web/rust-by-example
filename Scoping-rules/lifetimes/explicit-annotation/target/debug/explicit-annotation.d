@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Scoping-rules/lifetimes/explicit-annotation/target/debug/explicit-annotation: /home/user/projects/rust/rust-by-example/Scoping-rules/lifetimes/explicit-annotation/src/main.rs

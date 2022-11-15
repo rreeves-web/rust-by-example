@@ -1,0 +1,1 @@
+/home/user/projects/rust/variable_bindings/scope_and_shadowing/variable_shadowing/target/debug/variable_shadowing: /home/user/projects/rust/variable_bindings/scope_and_shadowing/variable_shadowing/src/main.rs

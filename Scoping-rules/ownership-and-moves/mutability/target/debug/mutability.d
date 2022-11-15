@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Scoping-rules/ownership-and-moves/mutability/target/debug/mutability: /home/user/projects/rust/rust-by-example/Scoping-rules/ownership-and-moves/mutability/src/main.rs

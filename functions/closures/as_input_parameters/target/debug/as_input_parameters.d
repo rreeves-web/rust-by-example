@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/functions/closures/as_input_parameters/target/debug/as_input_parameters: /home/user/projects/rust/rust-by-example/functions/closures/as_input_parameters/src/main.rs

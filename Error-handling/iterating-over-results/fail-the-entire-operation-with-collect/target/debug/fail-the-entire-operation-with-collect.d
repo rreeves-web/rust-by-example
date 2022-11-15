@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/Error-handling/iterating-over-results/fail-the-entire-operation-with-collect/target/debug/fail-the-entire-operation-with-collect: /home/user/projects/rust/rust-by-example/Error-handling/iterating-over-results/fail-the-entire-operation-with-collect/src/main.rs

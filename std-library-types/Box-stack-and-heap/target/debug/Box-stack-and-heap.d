@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/std-library-types/Box-stack-and-heap/target/debug/Box-stack-and-heap: /home/user/projects/rust/rust-by-example/std-library-types/Box-stack-and-heap/src/main.rs

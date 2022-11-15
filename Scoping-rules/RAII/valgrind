@@ -1,0 +1,4 @@
+Of course, we can double check for memory errors using
+`valgrind`[url]http://valgrind.org/info/[/url]:
+
+$ rustc raii.rs && valgrind ./raii

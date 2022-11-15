@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/generics/bounds/testcase-empty-bounds/target/debug/testcase-empty-bounds: /home/user/projects/rust/rust-by-example/generics/bounds/testcase-empty-bounds/src/main.rs

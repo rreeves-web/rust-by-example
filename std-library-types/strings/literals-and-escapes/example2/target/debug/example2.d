@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/std-library-types/strings/literals-and-escapes/example2/target/debug/example2: /home/user/projects/rust/rust-by-example/std-library-types/strings/literals-and-escapes/example2/src/main.rs

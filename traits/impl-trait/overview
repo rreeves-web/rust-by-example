@@ -1,0 +1,3 @@
+`impl Trait` can be used in two locations:
+1. as an argument type
+2. as a return type
