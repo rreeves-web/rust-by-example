@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/unsafe-operations/calling-unsafe-functions/target/debug/calling-unsafe-functions: /home/user/projects/rust/rust-by-example/unsafe-operations/calling-unsafe-functions/src/main.rs
