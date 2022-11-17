@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/std-misc/threads/testcase-map-reduce/target/debug/testcase-map-reduce: /home/user/projects/rust/rust-by-example/std-misc/threads/testcase-map-reduce/src/main.rs

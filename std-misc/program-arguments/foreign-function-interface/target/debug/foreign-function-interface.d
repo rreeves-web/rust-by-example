@@ -1,0 +1,1 @@
+/home/user/projects/rust/rust-by-example/std-misc/program-arguments/foreign-function-interface/target/debug/foreign-function-interface: /home/user/projects/rust/rust-by-example/std-misc/program-arguments/foreign-function-interface/src/main.rs
